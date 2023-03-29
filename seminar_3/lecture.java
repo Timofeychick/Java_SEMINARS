@@ -40,9 +40,7 @@ public class lecture {
 
         for (Object object : dataTwo) { // цикл вывода данных из коллекции List
             System.out.println(object + " ");
-        }
-
-        
+        }        
     }
 
     private static void GetType(Object object) {
